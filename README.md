@@ -2,6 +2,7 @@
 
 Bug Scanner for Internet Freedom
 
+    $ sudo apt update -y && sudo apt upgrade -y && sudo apt-get install python3-pip -y && sudo apt install golang -y && pip install multithreading && pip install loguru && sudo GO111MODULE=on go get -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
 
 Sub Finder
 ----------
